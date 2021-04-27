@@ -1,4 +1,7 @@
-### Hi there 👋
+## Servus 👋
+# Currently i work on minecraft-related systems (spigot and bungeecord api)
+
+
 
 <!--
 **Heliumdioxid/Heliumdioxid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
