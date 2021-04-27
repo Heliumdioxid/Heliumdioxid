@@ -1,5 +1,5 @@
 ## Servus 👋
-# Currently i work on minecraft-related systems (spigot and bungeecord api)
+Currently i work on minecraft-related systems (spigot and bungeecord api)
 
 
 
